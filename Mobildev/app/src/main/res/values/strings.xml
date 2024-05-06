@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobil Ödev</string>
+    <string name="boy">Boy (cm)</string>
+    <string name="kilo">Kilo (Kg)</string>
+    <string name="yas">Yaş</string>
+    <string name="erkek">Erkek</string>
+    <string name="kadin">Kadın</string>
+    <string name="hesapla">Hesapla</string>
+</resources>
